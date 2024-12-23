@@ -1,5 +1,5 @@
-title: KH1 Sonic Music Pack
-description: A music pack for KH1 that replaces all the music in the game with Sonic music! (And a few fun surprises as well...) A ReadMe with Spoliers in the mod folder!
+title: KH1 Mario Galaxy
+description: Mario Galaxy
 assets:
 - name: remastered\amusic\music097.bgm\music097.win32.scd
   method: copy
